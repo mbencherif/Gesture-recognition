@@ -1,4 +1,4 @@
-# HandGestureRecognition
+# Gesture Recognition
 In this project, I created Hybrid-7 which is a model focus on hand gesture recognition.<br>
 # what is Hybrid-7
 7 convolutional layers.<br>
